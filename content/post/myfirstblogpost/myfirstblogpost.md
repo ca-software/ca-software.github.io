@@ -1,4 +1,5 @@
 ---
+draft:       false
 title:       "An Example Post"
 subtitle:    ""
 description: ""
